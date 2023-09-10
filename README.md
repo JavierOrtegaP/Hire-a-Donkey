@@ -1,2 +1,3 @@
 # TOP-landing-page
-Create the project described in https://www.theodinproject.com/lessons/foundations-landing-page
+
+Create the project described [here](https://www.theodinproject.com/lessons/foundations-landing-page)
